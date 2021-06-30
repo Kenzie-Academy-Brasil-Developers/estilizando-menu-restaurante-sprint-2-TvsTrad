@@ -4,6 +4,7 @@
 body{
     font-family: Lato;
     background-image: url(img/map-bg.jpg);
+    font-size: 18px;
 }
 
 nav {
@@ -26,7 +27,7 @@ header h1{
     columns: 400px 2; 
     column-gap: 100px;
     column-rule: 2px dashed rosybrown;
-    column-fill: auto;
+    /* column-fill: auto; */
     /* height: 610px; */
 }
 
